@@ -4,6 +4,7 @@ You can find the templates in the Issues tab.
 
 # Tags meaning
 ## Importance Labels 
+`wontfix`: We care so little about this we are not even going to bother until the heat death of the universe.
 `1`: Low, one of the last things to do.   
 `2`: Well we could do this as soon as we have no other stuff.   
 `3`: Medium, maybe we should do this soon.   
