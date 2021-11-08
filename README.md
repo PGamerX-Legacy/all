@@ -1,6 +1,7 @@
-# PGamerX Issues
-Here you can submit any issues, bugs or recommendations you encounter whilst using our bot.
-You can find the templates in the Issues tab.
+# PGamerX Bots
+Here you can submit any issues, bugs or recommendations you encounter whilst using our bot.     
+You can check the different tasks in progress as well! More info [Projects Tab](https://github.com/PGamerX-Legacy/home/projects).               
+You can find the templates in the Issues tab for bugs/recommendations and etc.
 
 # Tags meaning
 ## Importance Labels 
